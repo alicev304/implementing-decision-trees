@@ -1,0 +1,7 @@
+compile the file
+run as follows:
+
+.\program <L> <K> <training-set> <validation-set> <test-set> <to-print>
+L: integer (used in the post-pruning algorithm)
+K: integer (used in the post-pruning algorithm)
+to-print:{yes,no}
